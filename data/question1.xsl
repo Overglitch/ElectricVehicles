@@ -27,10 +27,10 @@
             z-index: 10;
           }
           tr:nth-child(even) {
-            background-color: #f2f2f2;
+            background-color: #fad25a;
           }
           tr:hover {
-            background-color: #ddd;
+            background-color: #fad25a;
           }
                 </style>
             </head>
