@@ -17,4 +17,4 @@ Ingresar a la web:
 
 http://localhost:8000/
 
-[![](["poc.mp4"](https://github.com/Overglitch/ElectricVehicles/blob/main/poc.mp4))]
+[![](https://github.com/Overglitch/ElectricVehicles/blob/main/poc.mp4)]
